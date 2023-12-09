@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Noor</h1>
-<h3 align="center">Passionate software developer based in India, specializing in web development. I thrive on turning innovative ideas into reality.</h3>
+<h3 align="center">I'm a Software Developer, specializing in web development. I thrive on turning innovative ideas into reality.</h3>
 
 - 🔭 I’m currently working on **Ride Sharing Application**
 
